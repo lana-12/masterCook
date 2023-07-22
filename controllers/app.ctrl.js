@@ -1,5 +1,4 @@
 const { resolve } = require('path');
-const fs = require('fs');
 
 
 exports.homeCtrl = (req, res) => {
