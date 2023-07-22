@@ -15,7 +15,7 @@ Pour récupérer et installer le projet, placez-vous sur un dossier de travail e
 ### Récupération du projet
 
 ```
-git clone ici 
+git clone https://github.com/lana-12/masterCook
 ```
 
 ### Installation du projet
