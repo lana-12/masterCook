@@ -1,4 +1,8 @@
 body {
-    background: red;
+    background: #ecc9c9;
     color: white;
+}
+
+.card{
+    color: #000;
 }

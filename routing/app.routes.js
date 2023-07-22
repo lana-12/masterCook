@@ -11,4 +11,11 @@ router.get('/home', homeCtrl);
 router.get('/services', servicesCtrl);
 router.get('/contact', contactCtrl);
 
+
+const {
+    fetchAllRecipesCtrl,
+} = require('../controllers/api.ctrl');
+
+router.get('/recettes', fetchAllRecipesCtrl)
+
 module.exports = router;
