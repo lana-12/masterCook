@@ -1,11 +1,11 @@
 {
     "allRecipes": [
         {
-            "name": "french",
+            "name": "France",
             "recipes": [
                 {
                     "id": 100,
-                    "title": "creme anglaise",
+                    "title": "Crème Anglaise",
                     "ingredients": [
                         {
                             "name": "lait",
@@ -31,7 +31,7 @@
                 },
                 {
                     "id": 101,
-                    "title": "creme patisiere",
+                    "title": "Crème Pâtissière",
                     "ingredients": [
                         {
                             "name": "lait",
@@ -62,7 +62,7 @@
                 },
                 {
                     "id": 103,
-                    "title": "riz au lait",
+                    "title": "Riz au Lait",
                     "ingredients": [
                         {
                             "name": "lait",
@@ -88,7 +88,7 @@
                 },
                 {
                     "id": 104,
-                    "title": "creme brullé",
+                    "title": "Crème Brulée",
                     "ingredients": [
                         {
                             "name": "lait",
@@ -115,7 +115,7 @@
             ]
         },
         {
-            "name": "american",
+            "name": "Amérique",
             "recipes": [
                 {
                     "id": 300,
@@ -165,7 +165,7 @@
             ]
         },
         {
-            "name": "italian",
+            "name": "Italie",
             "recipes": [
                 {
                     "id": 200,
@@ -196,11 +196,11 @@
             ]
         },
         {
-            "name": "japanese",
+            "name": "Japon",
             "recipes": [
                 {
                     "id": 200,
-                    "title": "sushi",
+                    "title": "Sushi",
                     "ingredients": [
                         {
                             "name": "riz",
@@ -241,7 +241,7 @@
                 },
                 {
                     "id": 201,
-                    "title": "ramen",
+                    "title": "Ramen",
                     "ingredients": [
                         {
                             "name": "nouilles ramen",

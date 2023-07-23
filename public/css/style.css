@@ -1,8 +1,16 @@
 body {
     background: #ecc9c9;
     color: white;
+    width: 100%;
 }
 
 .card{
     color: #000;
+    margin: 20px;
+}
+
+.sectionShow {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }

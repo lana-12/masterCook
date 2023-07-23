@@ -22,6 +22,6 @@ export function getAllRecipes(host){
             createCard(allRecipes);
         })
     } catch (error) {
-        
+        console.log(`Oups une erreur est survenu`, error);
     }
 }
